@@ -90,3 +90,23 @@
    90  andruhaharchenko@gmail.com
    91  git push
    92  git log
+   93  history 0 > command_list.csv
+   94  git add comand_list.csv
+   95  git status
+   96  git git commit -m "command_list.csv added"
+   97  git status
+   98  git add command_list.csv
+   99  git status
+  100  git commite -m "comand_list.csv added"
+  101  git commit --help\n
+  102  git status
+  103  git push
+  104  git status
+  105  git restore --staged command_list.csv
+  106  git status
+  107  git add command_list.csv
+  108  git commit -m "command_list.csv added"
+  109  git status
+  110  git push
+  111  git status
+  112  git checkout main
