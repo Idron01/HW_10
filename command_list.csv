@@ -1,0 +1,92 @@
+    1  q
+    2  cd
+    3  ls
+    4  ls
+    5  mkdir Git
+    6  ls
+    7  cd Git
+    8  history -c && rm ~/.bash_history\\ngit config --global user.name "Ivan Ivanov"\n
+    9  git config --global user.name "Andrii Kharchenko"\n
+   10  git config --global user.email andruhaharchenko@gmail.com\n
+   11  git config --global user.name "Andrii Kharchenko"
+   12  git clone [https://github.com/Idron01/HW_10]\n
+   13  git clone [git@github.com:Idron01/HW_10.git]
+   14  q
+   15  cd
+   16  ls
+   17  cd Git
+   18  history -c && rm ~/.bash_history
+   19  git config --global user.name "Andrii Kharchenko"\n
+   20  git config --global user.email andruhaharchenko@gmail.com\n
+   21  cd
+   22  cd Git
+   23  fc -R && rm ~/.zsh_history
+   24  git config --global user.name "Andrii Kharchenko"\n
+   25  git config --global user.email andruhaharchenko@gmail.com\n
+   26  git clone [https://github.com/Idron01/HW_10]\n
+   27  git clone [git@github.com:Idron01/HW_10.git]
+   28  git clone git@github.com:Idron01/HW_10.git
+   29  cd git@github.com:Idron01/HW_10.git
+   30  git clone git@github.com:Idron01/HW_10.git
+   31  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
+   32  MyToken
+   33  git clone git@github.com:Idron01/HW_10.git
+   34  MyToken
+   35  git clone git@github.com:Idron01/HW_10.git
+   36  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
+   37  git clone https://github.com/Idron01/HW_10.git
+   38  cd https://github.com/Idron01/HW_10.git
+   39  text_ignore.txt
+   40  cd https://github.com/Idron01/HW_10.git
+   41  touch fileGit.txt
+   42  cd
+   43  clear
+   44  mkdir Git
+   45  cd Git
+   46  ls Git
+   47  git clone https://github.com/Idron01/HW_10.git
+   48  ls
+   49  vim text_ignore.txt/fileGit.txt
+   50  ls
+   51  cd Git
+   52  ls
+   53  cd HW_10
+   54  touch fileGit.txt
+   55  vim .gitignore
+   56  git status
+   57  git add .gitignore
+   58  git add file.txt
+   59  ls
+   60  vim .gitignore
+   61  git status
+   62  git add fileGit.txt
+   63  git status
+   64  git commit -m "fileGit.txt added"\n
+   65  touch main_test.txt
+   66  git add main_test.txt
+   67  git status
+   68  git commit -m "main_test.txt added"
+   69  git checkout -b new_branch
+   70  git branch
+   71  git checkout new_branch
+   72  touch develop_test.txt
+   73  git add develop_test.txt
+   74  git commit -m "develop_test.txt"
+   75  vim develop_test.txt
+   76  git status
+   77  git add develop_test.txt
+   78  git status
+   79  git commit -m "develop_test.txt added"
+   80  git checkout main
+   81  git branch
+   82  git merge new_branch
+   83  git push
+   84  git push
+   85  git push
+   86  git status
+   87  git push
+   88  git remote -v
+   89  git push
+   90  andruhaharchenko@gmail.com
+   91  git push
+   92  git log
